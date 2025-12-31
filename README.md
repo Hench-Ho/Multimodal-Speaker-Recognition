@@ -4,7 +4,7 @@ For the precise identification of speakers in films and TV series.At the same ti
 # Usage
 ## Installation
 ```
-git clone https://github.com/Hhengchang/Multimodal-TV-Drama-Speaker-Subtitle-Recognition-Based-on-VBx.git
+git clone https://github.com/Hhengchang/Multimodal-Speaker-Recognition.git
 
 # 1.Installed using pip.
 conda create -n VBx python=3.9
@@ -91,6 +91,7 @@ bash run.sh
 [VBx](https://github.com/BUTSpeechFIT/VBx)
 
 [VBx-training](https://github.com/phonexiaresearch/VBx-training-recipe)
+
 
 
 
